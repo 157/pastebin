@@ -35,7 +35,7 @@ A **production-ready, secure pastebin** built on **Cloudflare Workers** with **o
 
 > **🍴 Forked this repo?** Update the deploy button and links! See [SETUP.md](SETUP.md) for quick customization.
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/YOUR_USERNAME/YOUR_REPO_NAME)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/157/pastebin)
 
 ## ✨ Features
 
